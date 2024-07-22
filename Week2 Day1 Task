@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Professional Portfolio</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+
+    <p>Hello i am Asim!. I am a web developer with a passion for creating dynamic and responsive web applications. Below are some of the things I enjoy and my daily tasks.</p>
+
+    <ul>
+        <li>Coding</li>
+        <li>Reading</li>
+        <li>Traveling</li>
+    </ul>
+
+    <ol>
+        <li>Check emails</li>
+        <li>Attend meetings</li>
+        <li>Write code</li>
+    </ol>
+
+    <p>
+        Visit <a href="https://www.google.com">Google</a> for more information.
+    </p>
+
+    <a name="section2"></a>
+    <h2>More About Me</h2>
+    <p>
+        Learn more about my <a href="#section2">background and interests</a>.
+    </p>
+
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmuldoont.medium.com%2Ffacing-our-hardships-with-hope-lessons-from-viktor-frankl-7a44b7bb4990&psig=AOvVaw1GWdih3J0tbkPN2SAn9BnA&ust=1721716486134000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi-4O6DuocDFQAAAAAdAAAAABAE alt="click on the image>
+
+    <p>
+        In my free time, I enjoy reading <strong>technical books</strong> and <em>novels</em>.
+    </p>
+
+    <blockquote>
+        "When a person cannot find deep sense of meaning, They distract themselves with pleasure." 
+        <cite>- Victor Frankl</cite>
+    </blockquote>
+
+</body>
+</html>
